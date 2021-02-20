@@ -12,7 +12,6 @@
 3. MatplotLib: <b>pip install -U matplotlib</b> (Run on cmd/terminal)
 4. OpenCV:  <b>pip install opencv-contrib-python</b> (Run on cmd/terminal)
 
-Incase these commands throw any errors, visit this page to troubleshoot: 
 
 # Running the program:
 1. Clone repo 
